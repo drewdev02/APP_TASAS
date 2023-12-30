@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cambio</string>
+    <string name="app_widget_provider">Algo</string>
+    <string name="todo">TODO</string>
+</resources>
